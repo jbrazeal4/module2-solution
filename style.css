@@ -49,8 +49,8 @@ p{
 		.col-lg-1, .col-lg-2, .col-lg-3{
 			border:2px solid black;
 			float:left;
-			margin-right:10px;
-			margin-left:5px;
+			margin-right:8px;
+			margin-left:8px;
 		}
 		.col-lg-1{
 			width:32%;
