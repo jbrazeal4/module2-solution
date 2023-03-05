@@ -4,6 +4,9 @@
 h1{
 	text-align:center;
 }
+div .container {
+    top: 60px;
+}
 #chicken{
 	text-align:center;
 	width:120px;
