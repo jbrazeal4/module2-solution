@@ -9,7 +9,7 @@ h1{
 	width:120px;
 	margin-top:auto;
 	margin-left:auto;
-	border:2px solid black;
+	border:1px solid black;
 	background-color:red;
 	font-family:helvetica;
 }
@@ -18,7 +18,7 @@ text-align:center;
 	width:120px;
 	margin-top:auto;
 	margin-left:auto;
-	border:2px solid black;
+	border:1px solid black;
 	background-color:blue;
 	font-family:helvetica;
 }
@@ -27,7 +27,7 @@ text-align:center;
 	width:120px;
 	margin-top:auto;
 	margin-left:auto;
-	border:2px solid black;
+	border:1px solid black;
 	background-color:green;
 	font-family:helvetica;
 }
@@ -47,7 +47,7 @@ p{
 
 	@media (min-width:992px){
 		.col-lg-1, .col-lg-2, .col-lg-3{
-			border:2px solid black;
+			border:1px solid black;
 			float:left;
 			margin-right:8px;
 			margin-left:5px;
@@ -68,7 +68,7 @@ p{
 	}
 	@media (min-width:768px) and (max-width:991px){
 		.col-md-1, .col-md-2, .col-md-3{
-			border:2px solid black;
+			border:1px solid black;
 			float:left;
 			margin-left:25px;
 		}
@@ -90,7 +90,7 @@ p{
 	@media (max-width:767px){
 		.col-sm-1, .col-sm-2, .col-sm-3{
 			float:left;
-			border:2px solid black;
+			border:1px solid black;
 		}
 		.col-sm-1{
 			width:100%;
