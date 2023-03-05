@@ -53,16 +53,16 @@ p{
 			margin-left:5px;
 		}
 		.col-lg-1{
-			width:32%;
+			width:33%;
 			background-color:green;
 
 		}
 		.col-lg-2{
-			width:32%;
+			width:33%;
 			background-color:red;
 		}
 		.col-lg-3{
-			width:32%;
+			width:33%;
 			background-color:blue;
 		}
 	}
